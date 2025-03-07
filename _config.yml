@@ -1,9 +1,9 @@
 # Site settings
-title: Gaussian Process and Uncertainty Quantification Summer School, 2024
+title: Gaussian Process and Uncertainty Quantification Summer School, 2025
 email:
 description: > # this means to ignore newlines until "baseurl:"
   Gaussian Process Summer School
-baseurl: "/gpss24" # the subpath of your site, e.g. /blog/
+baseurl: "/gpss25" # the subpath of your site, e.g. /blog/
 url: "https://gpss.cc" # the base hostname & protocol for your site
 logo: "gpss_logo.svg"
 twitter_username: sheffieldmlnet
@@ -45,20 +45,20 @@ conference:
   venue: Kilburn Building, Lecture Theatre 1.1
   location: Manchester, UK
   name: Gaussian Process Summer School
-  year: 2024
+  year: 2025
   month: September
   dates:
-  - 2024-09-09
-  - 2024-09-10
-  - 2024-09-11
-  - 2024-09-12
+  - 2025-09-08
+  - 2025-09-09
+  - 2025-09-10
+  - 2025-09-11
   chairs:
   - type: Organizers
     people:
     - {given: Mauricio, family: Alvarez, url: "https://maalvarezl.github.io/", institute: University of Manchester}
     - {given: Carl H., family: Ek, url: "http://carlhenrik.com/", institute: University of Cambridge}
     - {given: Richard, family: Wilkinson, url: "https://rich-d-wilkinson.github.io/", institute: University of Nottingham}
-    - {given: Henry, family: Moss, url: "https://henrymoss.github.io/", institute: University of Cambridge}
+    - {given: Henry, family: Moss, url: "https://henrymoss.github.io/", institute: University of Lancaster}
     - {given: Neil D., family: Lawrence, url: "https://inverseprobability.com", institute: University of Cambridge}
 
 
