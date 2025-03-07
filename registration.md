@@ -4,7 +4,6 @@ title: Registration
 weight: 6
 ---
 ## Fees
-
 <!---
 
 ### Standard registrations: close August 16
@@ -17,7 +16,6 @@ weight: 6
 |Industrial and Other Non-Academic (Workshop only)       |      £250   |
 
 -->
-
 ### Early-bird registrations: close June 27, 2025
 
 |               Attendee                                 |     Fee     | 
