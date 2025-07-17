@@ -28,7 +28,7 @@ weight: 6
 
 ## Registration 
 
-**[Register here](https://estore.manchester.ac.uk/short-courses/faculty-of-science-engineering/department-of-computer-science/centre-of-excellence-for-ai-fundamentals/gaussian-process-and-uncertainty-quantification-summer-school)**
+**[Register here](https://estore.manchester.ac.uk/short-courses/faculty-of-science-engineering/department-of-computer-science/centre-of-excellence-for-ai-fundamentals/gaussian-process-and-uncertainty-quantification-summer-school-2025)**
 
 <!---
 **Registrations are now closed.**
