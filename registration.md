@@ -4,18 +4,18 @@ title: Registration
 weight: 6
 ---
 ## Fees
-<!---
 
-### Standard registrations: close August 16
+### Standard registrations: close August 18
 
 |               Attendee                                 |     Fee     | 
 |:--------------------------------------------------------|-------------:|
 |Academic (School and workshop)                          |      £400   |  
-|Academic (Workshop only)                                |       £80   |  
+|Academic (Workshop only)                                |       £100   |  
 |Industrial and Other Non-Academic (School and workshop) |      £1,000   |
 |Industrial and Other Non-Academic (Workshop only)       |      £250   |
 
--->
+<!---
+
 ### Early-bird registrations: close August 1, 2025
 
 |               Attendee                                 |     Fee     | 
@@ -24,6 +24,7 @@ weight: 6
 |Academic (Workshop only)                               |      £75  |  
 |Industrial and Other Non-Academic (School and workshop) |      £900   |
 |Industrial and Other Non-Academic (Workshop only)       |      £225   |
+-->
 
 
 ## Registration 
