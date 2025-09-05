@@ -4,11 +4,11 @@ weight: 4
 title: Labs
 ---
 
-The labs for the Gaussian Process Summer School can be downloaded here. All of the lab sheets are written in Python 3 given in Jupyter notebook format.
+All of the lab sheets are written in Python 3 given in Jupyter notebook format.
 
-Each lab sheet will be made available on the day of the lab, and answers for each will be made shortly after. There are also some extra work sheets, for you to explore in your own time, which give details of other uses of Gaussian processes not covered in the summer school.
+Each lab sheet will be made available on the day of the lab, and answers for each will be made shortly after. 
 
-Details of how to set up your Python environment and on the installation of the necessary libraries are available on the [Getting Started](./getting_started) page. Ensure you have completed the setup before starting the labs. We recommend that you use Binder during the lab sessions.
+
 
 ### Lab 1: Gaussian Process Regression
 
@@ -17,9 +17,10 @@ This lab is designed to introduce Gaussian processes in a practical way, illustr
 <!---
 
 [![Download](https://img.shields.io/badge/download-lab%201-green)](https://github.com/gpschool/labs/raw/2025/lab_1.ipynb) &nbsp;&nbsp;&nbsp;
-[![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gpschool/labs/blob/2025/colab/lab_1.ipynb) &nbsp;&nbsp;&nbsp;
+-->
+[![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gpschool/gpss25/blob/gh-pages/labs/lab_1.ipynb) &nbsp;&nbsp;&nbsp;
 
-
+<!---
 
 [![Answers](https://img.shields.io/badge/answers-nbviewer-green)](https://nbviewer.jupyter.org/github/gpschool/labs/blob/2024/answers/lab_1.ipynb)
 
