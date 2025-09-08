@@ -22,7 +22,7 @@ This lab is designed to introduce Gaussian processes in a practical way, illustr
 
 -->
 
-<!---
+
 
 ### Lab 2: GPs for Non-Gaussian Likelihoods and Big Data
 
@@ -31,7 +31,7 @@ This lab introduces Gaussian process regression for data with non-Gaussian likel
 As with Lab 1, the notebook uses GPy for handling the regression model and likelihoods.
 
 [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gpschool/gpss25/blob/gh-pages/labs/lab_2.ipynb)&nbsp;&nbsp;&nbsp;
--->
+	
 
 <!---
 [![Answers](https://img.shields.io/badge/answers-nbviewer-green)](https://nbviewer.jupyter.org/github/gpschool/labs/blob/2024/answers/lab_2.ipynb)
