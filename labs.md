@@ -37,15 +37,12 @@ As with Lab 1, the notebook uses GPy for handling the regression model and likel
 [![Answers](https://img.shields.io/badge/answers-nbviewer-green)](https://nbviewer.jupyter.org/github/gpschool/labs/blob/2024/answers/lab_2.ipynb)
 -->
 
-<!---
+
 ### Lab 3: Global Optimisation with Gaussian Processes
 
 This lab introduces the basic concepts of Bayesian optimisation with Emukit. The student will have to build and compare different models and acquisition functions to solve several optimisation problems.
--->
 
-<!---
 [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gpschool/gpss25/blob/gh-pages/labs/lab_3.ipynb)&nbsp;&nbsp;&nbsp;
--->
 
 <!---
 [![Answers](https://img.shields.io/badge/answers-nbviewer-green)](https://nbviewer.jupyter.org/github/gpschool/labs/blob/2024/answers/lab_3.ipynb)
